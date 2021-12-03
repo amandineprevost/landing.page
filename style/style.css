@@ -1,0 +1,15 @@
+@import url(banner.css);
+@import url(button.css);
+@import url(cards.css);
+@import url(footer.css);
+
+a{
+	text-decoration: none;
+}
+
+body{
+	font-family: Didot;
+	margin: 0;
+	font-size: 10;
+	
+}

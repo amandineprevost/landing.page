@@ -1,0 +1,16 @@
+.button{
+	font-family: Didot;
+	background-color: #A3C1AD;
+	color: white;
+	border-radius: 7px;
+	padding: 16px;
+	border: solid 2px #A3C1AD;
+
+} 
+
+.button:hover{
+	color: blue;
+	background-color: white;
+	transition: 1s;
+
+}

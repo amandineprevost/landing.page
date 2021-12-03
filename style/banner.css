@@ -1,0 +1,21 @@
+.banner{
+	font-family: Didot;
+	background-image: url("../images/sapin.jpg");
+	height: 65vh;
+	background-size: cover;
+	background-position: center;
+	display:flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	opacity: 0.8;
+}
+
+.banner h1{
+	margin: 0;
+	color: white;
+}
+
+.banner h2{
+	color: white;
+}
